@@ -1,0 +1,9 @@
+﻿  generator instancji akwb.cpp
+c:\users\konto\source\repos\ostatni program\generator instancji akwb\generator instancji akwb\generator instancji akwb.cpp(25): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\konto\source\repos\ostatni program\generator instancji akwb\generator instancji akwb\generator instancji akwb.cpp(68): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\generator instancji akwb\generator instancji akwb\generator instancji akwb.cpp(77): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\generator instancji akwb\generator instancji akwb\generator instancji akwb.cpp(82): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\generator instancji akwb\generator instancji akwb\generator instancji akwb.cpp(98): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\generator instancji akwb\generator instancji akwb\generator instancji akwb.cpp(110): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\generator instancji akwb\generator instancji akwb\generator instancji akwb.cpp(127): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  generator instancji akwb.vcxproj -> C:\Users\Konto\source\repos\ostatni program\generator instancji akwb\Debug\generator instancji akwb.exe

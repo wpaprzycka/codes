@@ -1,0 +1,28 @@
+﻿  ostatni program.cpp
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(67): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(101): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(144): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(153): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(158): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(174): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(186): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(203): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(237): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(243): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(255): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(263): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(280): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(296): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(307): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(330): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(339): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(399): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(418): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(429): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\konto\source\repos\ostatni program\ostatni program\ostatni program.cpp(458): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Trwa generowanie kodu
+  24 of 271 functions ( 8.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  ostatni program.vcxproj -> C:\Users\Konto\source\repos\ostatni program\Release\ostatni program.exe

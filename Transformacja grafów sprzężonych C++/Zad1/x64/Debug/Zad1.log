@@ -1,0 +1,4 @@
+﻿  kodok.cpp
+c:\users\konto\source\repos\zad1\zad1\kodok.cpp(129): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+c:\users\konto\source\repos\zad1\zad1\kodok.cpp(354): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Zad1.vcxproj -> C:\Users\Konto\source\repos\Zad1\x64\Debug\Zad1.exe
